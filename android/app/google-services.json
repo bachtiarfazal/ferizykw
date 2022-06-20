@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799794754370",
+    "project_id": "ferizykw",
+    "storage_bucket": "ferizykw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799794754370:android:4502977401a0a9d3908edb",
+        "android_client_info": {
+          "package_name": "com.example.ferizy_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799794754370-6to9hcvvekkeu4mvlbmmsgubmog3326k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD02MTgQ69d3EQMSL9BFHzCSfa8aoenIR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799794754370-6to9hcvvekkeu4mvlbmmsgubmog3326k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
